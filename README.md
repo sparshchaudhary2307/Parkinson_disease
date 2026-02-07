@@ -129,24 +129,10 @@ The voice model predicts healthy , but the tremor model shows PD with 70% confid
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-> Portions © 2025 **Eshaan Singla** – used with permission under the MIT License.
 
 ---
 
-##  Contact
 
-**Sartaj Singh Virdi**  
- sartajvirdi@gmail.com
- 
- [LinkedIn](https://www.linkedin.com/in/sartaj-singh-virdi-8b85b8352/) 
- 
- [GitHub](https://github.com/SartajVirdi)
-
----
-
->  Built with passion to support **early detection** of parkinson's.
-
----
 
 ##  Acknowledgments
 
@@ -155,22 +141,6 @@ This project was originally part of a collaborative effort during the **ELC Summ
 - **Dr. Jatin Bedi**  
 - **Dr. Rohit Ahuja**
 
-**Core team members:**
-
-- Eshaan Singla
-- Ranesh Prashar  
-- Sartaj Singh Virdi  
-- Ujjwal Agarwal  
-- Sidhant Kapoor  
-- Tushar Singhal  
-- Harshita Maheshwari  
-- Harsheen Kaur  
-- Nimrat Kaur  
-- Tanjot Chawla
-
-> The current version has been **independently extended, maintained, and documented by Sartaj Singh Virdi**.  
-> Special thanks to **Eshaan Singla** for contributions to early model development and project ideation.
----
 
 ##  Future Improvements
 
@@ -182,8 +152,3 @@ This project was originally part of a collaborative effort during the **ELC Summ
 -  **Explore additional biomarkers and neurological indicators** beyond Parkinson’s Disease
 ---
 
-##  Project Poster
-
-<p align="center">
-  <img src="media/Poster.jpg" alt="NeuroGait-Eye Poster" width="800">
-</p>
