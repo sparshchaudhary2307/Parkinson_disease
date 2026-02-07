@@ -118,12 +118,6 @@ The voice model predicts healthy , but the tremor model shows PD with 70% confid
 
 ---
 
-##  Demo Video
-
-
-[ Download Full Video (MP4)](media/demo.mp4)
-
----
 
 ##  License
 
