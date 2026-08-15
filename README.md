@@ -1,6 +1,6 @@
 #  Parkinson's Early Prediction System
 
-A Machine Learning-based system for the **early prediction of Parkinson's Disease** using multimodal data including **voice recordings** and **hand tremor signals**. This project combines deep learning models and signal processing techniques to assist in identifying early-stage Parkinson's symptoms.
+A Machine Learning-based system for the **early prediction of Parkinson's Disease** using multimodal data including **voice recordings** and **hand tremor signals**. This project combines deep learning models and signal processing techniques to assist in identifying early-stage Parkinson's symptoms..
 
 ---
 
